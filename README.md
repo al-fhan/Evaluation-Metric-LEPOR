@@ -3,8 +3,7 @@ Evaluation-Metric-LEPOR
 
 LEPOR: A Robust Evaluation Metric for Machine Translation with Augmented Factors, Language independent
 
-Sourcecode:
-https://github.com/aaronlifenghan/aaron-project-lepor
+
 
 Reference:
 
@@ -17,6 +16,11 @@ The enhanced version of the metrics hLEPOR and nLEPOR are introduced in the pape
 [http://www.hindawi.com/journals/tswj/aip/760301/]
 
 
+Questions about codes:
+
+hanlifengaaron [at] gmail [dot] com
+
+l.han [at] uva [dot] nl
 
 
 
